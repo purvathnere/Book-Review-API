@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Book Review API
 
@@ -508,9 +508,7 @@ Common HTTP status codes:
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
-This project is licensed under the MIT License.
->>>>>>> 28b25b7 (Initial Commit)
+
 =======
 ### Auth
 
@@ -534,4 +532,4 @@ This project is licensed under the MIT License.
 ### Search Books
 
 ![Search Books](./screenshots/Search/Search.png)
->>>>>>> 5727b7d (Finishing Project)
+

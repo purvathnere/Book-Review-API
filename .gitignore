@@ -1,0 +1,27 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# IDE files (example for VSCode)
+/.vscode/
+
+# Optional: build output
+/dist/
+/build/
+
+# Optional: coverage reports
+/coverage/
+
+# Optional: lock files (usually you want to keep one)
+/package-lock.json
+/yarn.lock

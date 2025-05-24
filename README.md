@@ -2,9 +2,8 @@
 
 # Book Review API
 
-This project is a backend system for managing books, reviews, and users.
-=======
-# Book Review API
+
+
 
 A comprehensive RESTful API for managing books and reviews with JWT authentication, built with Node.js, Express, and MongoDB.
 
